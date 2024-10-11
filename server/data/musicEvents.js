@@ -1,0 +1,42 @@
+export const musicEvents = [
+  {
+    id: 1,
+    title: "Imagine Dragons - Mercury World Tour",
+    date: "2023-06-15",
+    time: "19:30",
+    location: 1,
+    image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mercury_Tour_Imagine_Dragons.jpg",
+  },
+  {
+    id: 2,
+    title: "Billie Eilish - Happier Than Ever Tour",
+    date: "2023-07-10",
+    time: "20:00",
+    location: 2,
+    image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/BillieEilishO2160622_%2844_of_45%29_%2852152978743%29.jpg",
+  },
+  {
+    id: 3,
+    title: "Arctic Monkeys",
+    date: "2023-05-25",
+    time: "18:00",
+    location: 2,
+    image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Arctic_Monkeys_%40_Sir_Stewart_Bovell_Park_%287_1_12%29_%286693049253%29.jpg",
+  },
+  {
+    id: 4,
+    title: "The Weeknd - After Hours Tour",
+    date: "2023-09-12",
+    time: "20:00",
+    location: 3,
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg",
+  },
+  {
+    id: 5,
+    title: "Bruno Mars",
+    date: "2023-07-20",
+    time: "19:30",
+    location: 1,
+    image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Bruno_Mars_b%26w_%28cropped%29.jpg",
+  },
+];
